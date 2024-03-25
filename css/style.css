@@ -1,1 +1,10 @@
-fffggfg
+button{
+  background-color: darkblue;
+  font-weight: bold;
+}
+.text{
+  font-style: iltalic;
+}
+#highlight{
+  color: red;
+}
